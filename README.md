@@ -10,7 +10,6 @@
 
 ## 📌 Mock Tests
 
-> *Use these links to practice AZ-900–style questions. If you have your own preferred mock tests, swap in those URLs here.*
 
 - **Test 1**: [Azure AZ-900–Style Exam, Part 1](https://example.com/az900-test1)  
 - **Test 2**: [Azure AZ-900–Style Exam, Part 2](https://example.com/az900-test2)  
