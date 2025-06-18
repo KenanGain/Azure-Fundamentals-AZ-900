@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/certifications/exams/az-900">
-    <img src="https://azurecomcdn.azureedge.net/cvt-5c601b4faa8571a69dcbc34bd0e779b55d1d5667fc0d0d5c6bd9fa32e5e8b7c3/svg/azure-logo.svg" alt="Azure Logo" width="200"/>
+    <img src="azure.png" alt="Azure Logo" width="200"/>
   </a>
 </p>
 
