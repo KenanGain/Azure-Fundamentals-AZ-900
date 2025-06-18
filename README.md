@@ -11,8 +11,8 @@
 ## 📌 Mock Tests
 
 
-- **Test 1**: [Azure AZ-900–Style Exam, Part 1](https://example.com/az900-test1)  
-- **Test 2**: [Azure AZ-900–Style Exam, Part 2](https://example.com/az900-test2)  
+- **Test 1**: [Azure AZ-900–Style Exam, Part 1](https://g.co/gemini/share/6896372ed8be)  
+- **Test 2**: [Azure AZ-900–Style Exam, Part 2](https://g.co/gemini/share/1be638de09b9)  
 - **Test 3**: [Azure AZ-900–Style Exam, Part 3](https://example.com/az900-test3)
 
 ---
